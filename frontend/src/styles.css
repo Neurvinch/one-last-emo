@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background: #f2f3f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+.video {
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.emotion-box {
+  margin-top: 1rem;
+  background: white;
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+}
